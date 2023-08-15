@@ -1,4 +1,3 @@
-//better use querySelelctAll
 
 const cell0101: HTMLDivElement | null = document.querySelector("#cell0101");
 const cell0102: HTMLDivElement | null = document.querySelector("#cell0102");
